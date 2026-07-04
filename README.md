@@ -17,7 +17,7 @@ A fun command-line game built in C where you need to guess the number.
 
 ## How to Run
 ```bash
-gcc number_guessing_game.c -o number_guessing_game
+gcc main.c -o number_guessing_game
 ./number_guessing_game
 ```
 
