@@ -13,7 +13,8 @@ A fun command-line game built in C where you need to guess the number.
 - A game recap (rounds played, won, lost) is displayed when the user exits
 
 ## Tech Stack
-- Language: C
+- Language: `C`
+- Libraries: `stdlib.h`, `time.h`
 
 ## How to Run
 ```bash
