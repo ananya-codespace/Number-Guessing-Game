@@ -88,7 +88,7 @@ int main()
 
     srand(time(NULL));   // to set the seed (starting number of the sequence) for rand() different for each run
     // rand() generates a random number between 0 and a very large number; rand() % 100 : between 0-99;  rand() % 100 + 1 : between 1-100
-    printf(" -------------------- NUMBER GUESSING GAME -------------------- \n\n");
+    printf("\n -------------------- NUMBER GUESSING GAME -------------------- \n\n");
     printf("WELCOME!\n");
     printf("\nRULES");
     printf("\n---------------------------------------- \n");
