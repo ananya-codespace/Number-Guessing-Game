@@ -37,6 +37,6 @@ gcc main.c -o number_guessing_game
 - When the user exits, the game recap is displayed
 - All output is displayed directly in the terminal 
 
-## What I Learned
+## What I Learnt
 - Using `rand()` and `srand(time(NULL))` to generate random numbers
 - Calculating the difference to show the appropriate hint
